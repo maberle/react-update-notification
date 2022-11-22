@@ -1,6 +1,6 @@
 {
-  "name": "react-update-notification",
-  "version": "1.1.1",
+  "name": "@dakosy/react-update-notification",
+  "version": "1.1.2",
   "description": "New version notification for your React application.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -16,7 +16,7 @@
   "bin": {
     "generate-version": "./bin/generate-version.js"
   },
-  "repository": "https://github.com/iamkd/react-update-notification",
+  "repository": "https://github.com/maberle/react-update-notification",
   "author": "Danyil Karuna <kd@oked.me>",
   "license": "MIT",
   "private": false,
@@ -26,7 +26,7 @@
     "es"
   ],
   "peerDependencies": {
-    "react": "^16.12.0 || ^17.0.0"
+    "react": "^16.12.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.21",
